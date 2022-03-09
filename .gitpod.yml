@@ -10,4 +10,4 @@ tasks:
   - init: npm install
     command: >
       npm i -g @angular/cli &&
-      command: ng serve --host 0.0.0.0 --disable-host-check
+      ng serve --host 0.0.0.0 --disable-host-check
